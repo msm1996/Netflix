@@ -16,3 +16,6 @@
 -🔄 Navegação simples e intuitiva<h2/>
 <br>
 <h2>📸 Imagem do projeto:</h2> 
+<img  src= "https://github.com/msm1996/Netflix/blob/main/assets/Captura%20de%20tela%202025-10-03%20190000.png?raw=true">
+
+<a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
